@@ -33,4 +33,12 @@ python3 -m core.testes.pipeline
 
 ## ⚠️ Observações
 - Todos os comandos são relativos e devem ser rodados no **diretório raiz do projeto**.  
-- Qualquer diferença será incoerente com os pacotes e caminhos relativos criados.  
+- Qualquer diferença será incoerente com os pacotes e caminhos relativos criados. 
+- TODOS os comandos citados nesse documento são relativos ao sistema Linux, possuindo sempre uma equivalencia em Windows.
+
+
+## Te poupando dor de cabeça
+- Para manter a coerência e não entupir o teu pc de dependências, use um venv.
+- Criar venv: python3 -m venv venv
+- Ativar venv: source ./venv/bin/activate
+- Desativar venv: deactivate
