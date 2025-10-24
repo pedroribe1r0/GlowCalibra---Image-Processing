@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-def count_drops(imagem_binaria):
+def count_drops(imagem_binaria: np.ndarray, proportion: float):
     """
     Conta gotas em uma imagem binária, gera máscara e visualização.
     Retorna:
@@ -34,8 +34,11 @@ def count_drops(imagem_binaria):
         cx = int(M["m10"] / M["m00"])
         cy = int(M["m01"] / M["m00"])
 
+        area_cm = area * pow(proportion, 2)
+        x_cm = round(cx * proportion, 4)
+        y_cm = round(cy * proportion, 4)
         # guarda os dados
-        dados.append({"Index": index, "X": cx, "Y": cy, "Area": area})
+        dados.append({"Index": index, "X": x_cm, "Y": y_cm, "Area": area_cm, "Diameter" : 2 * np.sqrt(area_cm/np.pi)})
 
         # desenha na imagem
         cv2.drawContours(visualizacao, [contorno], -1, (255, 255, 255), 1)

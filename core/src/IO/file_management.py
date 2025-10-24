@@ -37,7 +37,7 @@ def export_csv(filename, dados):
 
     with open(out_path, mode="w", newline="") as outFile:
         writer = csv.writer(outFile)
-        writer.writerow(["Index", "X", "Y", "Area"])  # cabeçalho
+        writer.writerow(["Index", "X", "Y", "Area", "Diameter"])  # cabeçalho
         for d in dados:
-            writer.writerow([d["Index"], d["X"], d["Y"], d["Area"]])
+            writer.writerow([d["Index"], d["X"], d["Y"], d["Area"], d["Diameter"]])
     print(f"CSV salvo em {out_path}")

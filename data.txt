@@ -1,0 +1,6106 @@
+========== RESULTADO 1 ==========
+
+🕒 Timestamp: 2025-08-23 12:42:29
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.38 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.332 ms | Média: 13.497 ms | Máx: 13.854 ms
+
+========== RESULTADO 2 ==========
+
+🕒 Timestamp: 2025-08-23 12:42:48
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 73.90 Mbps
+Bytes transferidos: 92.74 MB
+Retransmissões: 0
+
+
+========== RESULTADO 3 ==========
+
+🕒 Timestamp: 2025-08-23 12:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.14 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.271 ms | Média: 13.506 ms | Máx: 13.963 ms
+
+========== RESULTADO 4 ==========
+
+🕒 Timestamp: 2025-08-23 12:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 314.40 Mbps
+Bytes transferidos: 394.55 MB
+Retransmissões: 0
+
+
+========== RESULTADO 5 ==========
+
+🕒 Timestamp: 2025-08-23 12:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.21 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.277 ms | Média: 13.739 ms | Máx: 14.275 ms
+
+========== RESULTADO 6 ==========
+
+🕒 Timestamp: 2025-08-23 12:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 294.95 Mbps
+Bytes transferidos: 370.14 MB
+Retransmissões: 0
+
+
+========== RESULTADO 7 ==========
+
+🕒 Timestamp: 2025-08-23 13:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.10 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.221 ms | Média: 13.728 ms | Máx: 14.365 ms
+
+========== RESULTADO 8 ==========
+
+🕒 Timestamp: 2025-08-23 13:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 255.35 Mbps
+Bytes transferidos: 320.49 MB
+Retransmissões: 0
+
+
+========== RESULTADO 9 ==========
+
+🕒 Timestamp: 2025-08-23 13:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.218 ms | Média: 13.39 ms | Máx: 13.799 ms
+
+========== RESULTADO 10 ==========
+
+🕒 Timestamp: 2025-08-23 13:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 301.99 Mbps
+Bytes transferidos: 379.06 MB
+Retransmissões: 0
+
+
+========== RESULTADO 11 ==========
+
+🕒 Timestamp: 2025-08-23 21:00:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 360.02 Mbps
+Bytes transferidos: 2701.99 MB
+Retransmissões: 0
+
+
+========== RESULTADO 12 ==========
+
+🕒 Timestamp: 2025-08-23 21:01:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 125 bytes
+Bits por segundo: 405.11 Mbps
+Bytes transferidos: 3040.38 MB
+Retransmissões: 0
+
+
+========== RESULTADO 13 ==========
+
+🕒 Timestamp: 2025-08-23 21:02:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 322.90 Mbps
+Bytes transferidos: 2423.45 MB
+Retransmissões: 0
+
+
+========== RESULTADO 14 ==========
+
+🕒 Timestamp: 2025-08-23 21:03:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 330.40 Mbps
+Bytes transferidos: 2479.69 MB
+Retransmissões: 0
+
+
+========== RESULTADO 15 ==========
+
+🕒 Timestamp: 2025-08-23 21:04:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 340.54 Mbps
+Bytes transferidos: 2555.80 MB
+Retransmissões: 0
+
+
+========== RESULTADO 16 ==========
+
+🕒 Timestamp: 2025-08-23 21:05:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 363.91 Mbps
+Bytes transferidos: 2731.25 MB
+Retransmissões: 0
+
+
+========== RESULTADO 17 ==========
+
+🕒 Timestamp: 2025-08-23 21:06:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2500 bytes
+Bits por segundo: 410.19 Mbps
+Bytes transferidos: 3078.65 MB
+Retransmissões: 0
+
+
+========== RESULTADO 18 ==========
+
+🕒 Timestamp: 2025-08-23 21:07:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 3072 bytes
+Bits por segundo: 751.20 Mbps
+Bytes transferidos: 5637.98 MB
+Retransmissões: 0
+
+
+========== RESULTADO 19 ==========
+
+🕒 Timestamp: 2025-09-02 14:22:56
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.245 ms | Média: 13.408 ms | Máx: 13.648 ms
+
+========== RESULTADO 20 ==========
+
+🕒 Timestamp: 2025-09-02 14:23:16
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 70.57 Mbps
+Bytes transferidos: 88.58 MB
+Retransmissões: 0
+
+
+========== RESULTADO 21 ==========
+
+🕒 Timestamp: 2025-09-02 14:25:20
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.098 ms | Média: 13.375 ms | Máx: 14.095 ms
+
+========== RESULTADO 22 ==========
+
+🕒 Timestamp: 2025-09-02 14:25:40
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 33.95 Mbps
+Bytes transferidos: 42.61 MB
+Retransmissões: 0
+
+
+========== RESULTADO 23 ==========
+
+🕒 Timestamp: 2025-09-02 14:27:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.15 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.257 ms | Média: 13.411 ms | Máx: 13.788 ms
+
+========== RESULTADO 24 ==========
+
+🕒 Timestamp: 2025-09-02 14:27:23
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 53.94 Mbps
+Bytes transferidos: 67.70 MB
+Retransmissões: 0
+
+
+========== RESULTADO 25 ==========
+
+🕒 Timestamp: 2025-09-02 14:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 5.0 (0.1%)
+Jitter: 0.15 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.166 ms | Média: 13.365 ms | Máx: 13.784 ms
+
+========== RESULTADO 26 ==========
+
+🕒 Timestamp: 2025-09-02 14:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 62.04 Mbps
+Bytes transferidos: 77.87 MB
+Retransmissões: 0
+
+
+========== RESULTADO 27 ==========
+
+🕒 Timestamp: 2025-09-02 14:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 4.0 (0.1%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.079 ms | Média: 13.33 ms | Máx: 14.182 ms
+
+========== RESULTADO 28 ==========
+
+🕒 Timestamp: 2025-09-02 14:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 59.05 Mbps
+Bytes transferidos: 74.12 MB
+Retransmissões: 0
+
+
+========== RESULTADO 29 ==========
+
+🕒 Timestamp: 2025-09-02 14:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.18 ms | Média: 13.376 ms | Máx: 13.89 ms
+
+========== RESULTADO 30 ==========
+
+🕒 Timestamp: 2025-09-02 14:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 65.81 Mbps
+Bytes transferidos: 82.60 MB
+Retransmissões: 0
+
+
+========== RESULTADO 31 ==========
+
+🕒 Timestamp: 2025-09-02 15:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.17 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.19 ms | Média: 13.324 ms | Máx: 13.609 ms
+
+========== RESULTADO 32 ==========
+
+🕒 Timestamp: 2025-09-02 15:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.32 Mbps
+Bytes transferidos: 43.07 MB
+Retransmissões: 0
+
+
+========== RESULTADO 33 ==========
+
+🕒 Timestamp: 2025-09-02 15:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 7.0 (0.1%)
+Jitter: 0.27 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.292 ms | Média: 13.417 ms | Máx: 13.708 ms
+
+========== RESULTADO 34 ==========
+
+🕒 Timestamp: 2025-09-02 15:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 55.49 Mbps
+Bytes transferidos: 69.64 MB
+Retransmissões: 0
+
+
+========== RESULTADO 35 ==========
+
+🕒 Timestamp: 2025-09-02 15:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.227 ms | Média: 13.367 ms | Máx: 13.539 ms
+
+========== RESULTADO 36 ==========
+
+🕒 Timestamp: 2025-09-02 15:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 25.52 Mbps
+Bytes transferidos: 32.03 MB
+Retransmissões: 0
+
+
+========== RESULTADO 37 ==========
+
+🕒 Timestamp: 2025-09-02 15:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 8.0 (0.2%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.246 ms | Média: 13.494 ms | Máx: 14.787 ms
+
+========== RESULTADO 38 ==========
+
+🕒 Timestamp: 2025-09-02 15:59:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 0
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.04 ms
+
+
+========== RESULTADO 39 ==========
+
+🕒 Timestamp: 2025-09-02 16:14:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 44.19 Mbps
+Bytes transferidos: 55.46 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.059 ms | Média: 13.248 ms | Máx: 13.484 ms
+
+========== RESULTADO 40 ==========
+
+🕒 Timestamp: 2025-09-02 16:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.32 Mbps
+Bytes transferidos: 43.07 MB
+Retransmissões: 0
+
+
+========== RESULTADO 41 ==========
+
+🕒 Timestamp: 2025-09-02 16:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 8.0 (0.2%)
+Jitter: 0.17 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.196 ms | Média: 13.34 ms | Máx: 13.632 ms
+
+========== RESULTADO 42 ==========
+
+🕒 Timestamp: 2025-09-02 16:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 24.26 Mbps
+Bytes transferidos: 30.46 MB
+Retransmissões: 0
+
+
+========== RESULTADO 43 ==========
+
+🕒 Timestamp: 2025-09-02 16:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 14.0 (0.3%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.31 ms | Média: 13.641 ms | Máx: 15.562 ms
+
+========== RESULTADO 44 ==========
+
+🕒 Timestamp: 2025-09-02 16:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 55.00 Mbps
+Bytes transferidos: 69.04 MB
+Retransmissões: 0
+
+
+========== RESULTADO 45 ==========
+
+🕒 Timestamp: 2025-09-02 16:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 31.0 (0.6%)
+Jitter: 0.20 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.283 ms | Média: 13.565 ms | Máx: 14.969 ms
+
+========== RESULTADO 46 ==========
+
+🕒 Timestamp: 2025-09-02 16:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 35.54 Mbps
+Bytes transferidos: 44.61 MB
+Retransmissões: 0
+
+
+========== RESULTADO 47 ==========
+
+🕒 Timestamp: 2025-09-02 17:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 26.49 Mbps
+Bytes transferidos: 198.83 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.131 ms | Média: 13.298 ms | Máx: 13.489 ms
+
+========== RESULTADO 48 ==========
+
+🕒 Timestamp: 2025-09-02 17:46:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 24.65 Mbps
+Bytes transferidos: 185.04 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.131 ms | Média: 14.049 ms | Máx: 18.783 ms
+
+========== RESULTADO 49 ==========
+
+🕒 Timestamp: 2025-09-02 17:47:21
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 23.29 Mbps
+Bytes transferidos: 174.83 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.26 ms | Média: 13.759 ms | Máx: 15.847 ms
+
+========== RESULTADO 50 ==========
+
+🕒 Timestamp: 2025-09-02 17:48:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 20.86 Mbps
+Bytes transferidos: 156.54 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.212 ms | Média: 14.157 ms | Máx: 18.844 ms
+
+========== RESULTADO 51 ==========
+
+🕒 Timestamp: 2025-09-02 17:49:40
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 17.95 Mbps
+Bytes transferidos: 134.73 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.255 ms | Média: 13.445 ms | Máx: 13.836 ms
+
+========== RESULTADO 52 ==========
+
+🕒 Timestamp: 2025-09-02 17:50:49
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 1123.0 (0.9%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.223 ms | Média: 13.606 ms | Máx: 14.6 ms
+
+========== RESULTADO 53 ==========
+
+🕒 Timestamp: 2025-09-02 17:51:59
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 279.0 (0.5%)
+Jitter: 0.03 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.37 ms | Média: 14.306 ms | Máx: 17.416 ms
+
+========== RESULTADO 54 ==========
+
+🕒 Timestamp: 2025-09-02 17:53:08
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 149.0 (0.5%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.273 ms | Média: 13.574 ms | Máx: 14.171 ms
+
+========== RESULTADO 55 ==========
+
+🕒 Timestamp: 2025-09-02 17:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 17.0 (0.3%)
+Jitter: 0.26 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.186 ms | Média: 13.79 ms | Máx: 14.88 ms
+
+========== RESULTADO 56 ==========
+
+🕒 Timestamp: 2025-09-02 17:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 16.13 Mbps
+Bytes transferidos: 20.25 MB
+Retransmissões: 0
+
+
+========== RESULTADO 57 ==========
+
+🕒 Timestamp: 2025-09-02 18:15:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 23.57 Mbps
+Bytes transferidos: 176.82 MB
+Retransmissões: 0
+
+
+========== RESULTADO 58 ==========
+
+🕒 Timestamp: 2025-09-02 18:16:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 24.09 Mbps
+Bytes transferidos: 180.78 MB
+Retransmissões: 0
+
+
+========== RESULTADO 59 ==========
+
+🕒 Timestamp: 2025-09-02 18:17:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 26.40 Mbps
+Bytes transferidos: 198.15 MB
+Retransmissões: 0
+
+
+========== RESULTADO 60 ==========
+
+🕒 Timestamp: 2025-09-02 18:18:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 21.51 Mbps
+Bytes transferidos: 161.46 MB
+Retransmissões: 0
+
+
+========== RESULTADO 61 ==========
+
+🕒 Timestamp: 2025-09-02 18:19:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 15.51 Mbps
+Bytes transferidos: 116.38 MB
+Retransmissões: 0
+
+
+========== RESULTADO 62 ==========
+
+🕒 Timestamp: 2025-09-02 18:20:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 185.0 (0.2%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 63 ==========
+
+🕒 Timestamp: 2025-09-02 18:21:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 152.0 (0.2%)
+Jitter: 0.24 ms
+
+
+========== RESULTADO 64 ==========
+
+🕒 Timestamp: 2025-09-02 18:31:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 761.0 (0.2%)
+Jitter: 0.79 ms
+
+
+========== RESULTADO 65 ==========
+
+🕒 Timestamp: 2025-09-02 18:32:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 13.0 (0.1%)
+Jitter: 0.17 ms
+
+
+========== RESULTADO 66 ==========
+
+🕒 Timestamp: 2025-09-02 18:33:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 24.0 (0.3%)
+Jitter: 0.24 ms
+
+
+========== RESULTADO 67 ==========
+
+🕒 Timestamp: 2025-09-02 18:34:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 20.0 (0.5%)
+Jitter: 0.44 ms
+
+
+========== RESULTADO 68 ==========
+
+🕒 Timestamp: 2025-09-02 18:47:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 35.18 Mbps
+Bytes transferidos: 791.71 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.226 ms | Média: 13.538 ms | Máx: 14.072 ms
+
+========== RESULTADO 69 ==========
+
+🕒 Timestamp: 2025-09-02 18:50:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 24.13 Mbps
+Bytes transferidos: 543.17 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.008 ms | Média: 13.923 ms | Máx: 17.546 ms
+
+========== RESULTADO 70 ==========
+
+🕒 Timestamp: 2025-09-02 18:53:21
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 113.0 (0.2%)
+Jitter: 0.08 ms
+
+
+========== RESULTADO 71 ==========
+
+🕒 Timestamp: 2025-09-02 18:56:21
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 39.0 (0.2%)
+Jitter: 0.15 ms
+
+
+========== RESULTADO 72 ==========
+
+🕒 Timestamp: 2025-09-02 18:58:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 13.11 MB
+Pacotes enviados: 0
+Perda de pacotes: 23.0 (0.3%)
+Jitter: 0.15 ms
+
+
+========== RESULTADO 73 ==========
+
+🕒 Timestamp: 2025-09-02 19:04:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 25.48 Mbps
+Bytes transferidos: 955.67 MB
+Retransmissões: 0
+
+
+========== RESULTADO 74 ==========
+
+🕒 Timestamp: 2025-09-02 19:19:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 27.42 Mbps
+Bytes transferidos: 1028.53 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.5 ms | Média: 14.162 ms | Máx: 17.165 ms
+
+========== RESULTADO 75 ==========
+
+🕒 Timestamp: 2025-09-02 19:24:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 39.32 MB
+Pacotes enviados: 0
+Perda de pacotes: 131.0 (0.5%)
+Jitter: 0.03 ms
+
+
+========== RESULTADO 76 ==========
+
+🕒 Timestamp: 2025-09-02 19:25:52
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 33.57 Mbps
+Bytes transferidos: 419.76 MB
+Retransmissões: 0
+
+
+========== RESULTADO 77 ==========
+
+🕒 Timestamp: 2025-09-02 19:35:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 47.19 MB
+Pacotes enviados: 0
+Perda de pacotes: 44.0 (0.2%)
+Jitter: 0.44 ms
+
+
+========== RESULTADO 78 ==========
+
+🕒 Timestamp: 2025-09-02 19:41:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 33.13 Mbps
+Bytes transferidos: 1491.08 MB
+Retransmissões: 0
+
+
+========== RESULTADO 79 ==========
+
+🕒 Timestamp: 2025-09-02 19:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 22.40 Mbps
+Bytes transferidos: 168.14 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 12.962 ms | Média: 13.346 ms | Máx: 17.488 ms
+
+========== RESULTADO 80 ==========
+
+🕒 Timestamp: 2025-09-02 19:50:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 256.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 33.55 MB
+Pacotes enviados: 100
+Perda de pacotes: 560.0 (0.4%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.032 ms | Média: 13.235 ms | Máx: 13.929 ms
+
+========== RESULTADO 81 ==========
+
+🕒 Timestamp: 2025-09-02 20:17:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 33.85 Mbps
+Bytes transferidos: 761.90 MB
+Retransmissões: 0
+
+
+========== RESULTADO 82 ==========
+
+🕒 Timestamp: 2025-09-02 20:20:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 43.28 Mbps
+Bytes transferidos: 974.13 MB
+Retransmissões: 0
+
+
+========== RESULTADO 83 ==========
+
+🕒 Timestamp: 2025-09-02 20:23:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 33.64 Mbps
+Bytes transferidos: 757.13 MB
+Retransmissões: 0
+
+
+========== RESULTADO 84 ==========
+
+🕒 Timestamp: 2025-09-02 20:26:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 269.0 (0.6%)
+Jitter: 0.13 ms
+
+
+========== RESULTADO 85 ==========
+
+🕒 Timestamp: 2025-09-02 20:39:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 81.0 (0.1%)
+Jitter: 0.08 ms
+
+
+========== RESULTADO 86 ==========
+
+🕒 Timestamp: 2025-09-02 20:54:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 100
+Perda de pacotes: 92.0 (0.1%)
+Jitter: 0.87 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 12.961 ms | Média: 13.396 ms | Máx: 16.782 ms
+
+========== RESULTADO 87 ==========
+
+🕒 Timestamp: 2025-09-02 21:00:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 41.23 Mbps
+Bytes transferidos: 309.41 MB
+Retransmissões: 0
+
+
+========== RESULTADO 88 ==========
+
+🕒 Timestamp: 2025-09-02 21:01:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 125 bytes
+Bits por segundo: 38.15 Mbps
+Bytes transferidos: 286.34 MB
+Retransmissões: 0
+
+
+========== RESULTADO 89 ==========
+
+🕒 Timestamp: 2025-09-02 21:02:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 41.36 Mbps
+Bytes transferidos: 310.42 MB
+Retransmissões: 0
+
+
+========== RESULTADO 90 ==========
+
+🕒 Timestamp: 2025-09-02 21:03:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 22.71 Mbps
+Bytes transferidos: 170.44 MB
+Retransmissões: 0
+
+
+========== RESULTADO 91 ==========
+
+🕒 Timestamp: 2025-09-02 21:04:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 28.92 Mbps
+Bytes transferidos: 217.02 MB
+Retransmissões: 0
+
+
+========== RESULTADO 92 ==========
+
+🕒 Timestamp: 2025-09-02 21:05:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 42.09 Mbps
+Bytes transferidos: 315.85 MB
+Retransmissões: 0
+
+
+========== RESULTADO 93 ==========
+
+🕒 Timestamp: 2025-09-02 21:06:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2500 bytes
+Bits por segundo: 38.89 Mbps
+Bytes transferidos: 291.91 MB
+Retransmissões: 0
+
+
+========== RESULTADO 94 ==========
+
+🕒 Timestamp: 2025-09-02 21:07:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 3072 bytes
+Bits por segundo: 27.85 Mbps
+Bytes transferidos: 209.00 MB
+Retransmissões: 0
+
+
+========== RESULTADO 95 ==========
+
+🕒 Timestamp: 2025-09-02 21:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 39.27 Mbps
+Bytes transferidos: 147.47 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 30
+Min: 13.048 ms | Média: 13.279 ms | Máx: 13.984 ms
+
+========== RESULTADO 96 ==========
+
+🕒 Timestamp: 2025-09-02 21:15:32
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 5125 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 3.94 MB
+Pacotes enviados: 0
+Perda de pacotes: 5.0 (0.7%)
+Jitter: 0.18 ms
+
+
+========== RESULTADO 97 ==========
+
+🕒 Timestamp: 2025-09-02 21:16:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 31.88 Mbps
+Bytes transferidos: 239.25 MB
+Retransmissões: 0
+
+
+========== RESULTADO 98 ==========
+
+🕒 Timestamp: 2025-09-03 12:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 25.0 (0.5%)
+Jitter: 0.29 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.148 ms | Média: 13.294 ms | Máx: 13.551 ms
+
+========== RESULTADO 99 ==========
+
+🕒 Timestamp: 2025-09-03 12:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.00 Mbps
+Bytes transferidos: 42.67 MB
+Retransmissões: 0
+
+
+========== RESULTADO 100 ==========
+
+🕒 Timestamp: 2025-09-03 12:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 20.0 (0.4%)
+Jitter: 0.14 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.233 ms | Média: 13.419 ms | Máx: 13.917 ms
+
+========== RESULTADO 101 ==========
+
+🕒 Timestamp: 2025-09-03 12:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 32.71 Mbps
+Bytes transferidos: 41.05 MB
+Retransmissões: 0
+
+
+========== RESULTADO 102 ==========
+
+🕒 Timestamp: 2025-09-03 12:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 28.0 (0.5%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.239 ms | Média: 13.472 ms | Máx: 14.37 ms
+
+========== RESULTADO 103 ==========
+
+🕒 Timestamp: 2025-09-03 12:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 39.95 Mbps
+Bytes transferidos: 50.14 MB
+Retransmissões: 0
+
+
+========== RESULTADO 104 ==========
+
+🕒 Timestamp: 2025-09-03 13:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 67.0 (1.3%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.245 ms | Média: 14.024 ms | Máx: 20.113 ms
+
+========== RESULTADO 105 ==========
+
+🕒 Timestamp: 2025-09-03 13:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 38.81 Mbps
+Bytes transferidos: 48.71 MB
+Retransmissões: 0
+
+
+========== RESULTADO 106 ==========
+
+🕒 Timestamp: 2025-09-03 13:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.078 ms | Média: 13.295 ms | Máx: 13.658 ms
+
+========== RESULTADO 107 ==========
+
+🕒 Timestamp: 2025-09-03 13:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 30.33 Mbps
+Bytes transferidos: 38.07 MB
+Retransmissões: 0
+
+
+========== RESULTADO 108 ==========
+
+🕒 Timestamp: 2025-09-03 13:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 11.0 (0.2%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.132 ms | Média: 13.317 ms | Máx: 13.567 ms
+
+========== RESULTADO 109 ==========
+
+🕒 Timestamp: 2025-09-03 13:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 57.19 Mbps
+Bytes transferidos: 71.78 MB
+Retransmissões: 0
+
+
+========== RESULTADO 110 ==========
+
+🕒 Timestamp: 2025-09-03 13:59:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 9.0 (0.2%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.308 ms | Média: 13.44 ms | Máx: 13.685 ms
+
+========== RESULTADO 111 ==========
+
+🕒 Timestamp: 2025-09-03 13:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 31.89 Mbps
+Bytes transferidos: 40.02 MB
+Retransmissões: 0
+
+
+========== RESULTADO 112 ==========
+
+🕒 Timestamp: 2025-09-03 14:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 10.0 (0.2%)
+Jitter: 0.10 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.288 ms | Média: 13.41 ms | Máx: 13.584 ms
+
+========== RESULTADO 113 ==========
+
+🕒 Timestamp: 2025-09-03 14:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 31.27 Mbps
+Bytes transferidos: 39.24 MB
+Retransmissões: 0
+
+
+========== RESULTADO 114 ==========
+
+🕒 Timestamp: 2025-09-03 14:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 67.0 (1.3%)
+Jitter: 0.25 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.339 ms | Média: 13.901 ms | Máx: 15.759 ms
+
+========== RESULTADO 115 ==========
+
+🕒 Timestamp: 2025-09-03 14:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 42.33 Mbps
+Bytes transferidos: 53.12 MB
+Retransmissões: 0
+
+
+========== RESULTADO 116 ==========
+
+🕒 Timestamp: 2025-09-03 14:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 6.0 (0.1%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.225 ms | Média: 13.587 ms | Máx: 14.437 ms
+
+========== RESULTADO 117 ==========
+
+🕒 Timestamp: 2025-09-03 14:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 58.30 Mbps
+Bytes transferidos: 73.13 MB
+Retransmissões: 0
+
+
+========== RESULTADO 118 ==========
+
+🕒 Timestamp: 2025-09-03 14:59:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 9.0 (0.2%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.252 ms | Média: 13.366 ms | Máx: 13.541 ms
+
+========== RESULTADO 119 ==========
+
+🕒 Timestamp: 2025-09-03 14:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 61.78 Mbps
+Bytes transferidos: 77.53 MB
+Retransmissões: 0
+
+
+========== RESULTADO 120 ==========
+
+🕒 Timestamp: 2025-09-03 15:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.271 ms | Média: 13.416 ms | Máx: 13.801 ms
+
+========== RESULTADO 121 ==========
+
+🕒 Timestamp: 2025-09-03 15:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 64.54 Mbps
+Bytes transferidos: 81.01 MB
+Retransmissões: 0
+
+
+========== RESULTADO 122 ==========
+
+🕒 Timestamp: 2025-09-03 15:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 12.0 (0.2%)
+Jitter: 0.12 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.286 ms | Média: 13.364 ms | Máx: 13.473 ms
+
+========== RESULTADO 123 ==========
+
+🕒 Timestamp: 2025-09-03 15:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 40.76 Mbps
+Bytes transferidos: 51.16 MB
+Retransmissões: 0
+
+
+========== RESULTADO 124 ==========
+
+🕒 Timestamp: 2025-09-03 15:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.17 ms | Média: 13.398 ms | Máx: 14.515 ms
+
+========== RESULTADO 125 ==========
+
+🕒 Timestamp: 2025-09-03 15:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 48.30 Mbps
+Bytes transferidos: 60.64 MB
+Retransmissões: 0
+
+
+========== RESULTADO 126 ==========
+
+🕒 Timestamp: 2025-09-03 15:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.19 ms | Média: 13.368 ms | Máx: 13.906 ms
+
+========== RESULTADO 127 ==========
+
+🕒 Timestamp: 2025-09-03 15:59:32
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 0
+Perda de pacotes: 5.0 (0.1%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 128 ==========
+
+🕒 Timestamp: 2025-09-03 16:14:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 31.82 Mbps
+Bytes transferidos: 39.94 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.226 ms | Média: 13.374 ms | Máx: 13.831 ms
+
+========== RESULTADO 129 ==========
+
+🕒 Timestamp: 2025-09-03 16:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 28.01 Mbps
+Bytes transferidos: 35.16 MB
+Retransmissões: 0
+
+
+========== RESULTADO 130 ==========
+
+🕒 Timestamp: 2025-09-03 16:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 20.0 (0.4%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.268 ms | Média: 13.739 ms | Máx: 17.18 ms
+
+========== RESULTADO 131 ==========
+
+🕒 Timestamp: 2025-09-03 16:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 9.69 Mbps
+Bytes transferidos: 12.17 MB
+Retransmissões: 0
+
+
+========== RESULTADO 132 ==========
+
+🕒 Timestamp: 2025-09-03 16:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 6.0 (0.1%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.099 ms | Média: 13.34 ms | Máx: 13.654 ms
+
+========== RESULTADO 133 ==========
+
+🕒 Timestamp: 2025-09-03 16:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 32.18 Mbps
+Bytes transferidos: 40.39 MB
+Retransmissões: 0
+
+
+========== RESULTADO 134 ==========
+
+🕒 Timestamp: 2025-09-03 16:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 11.0 (0.2%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.214 ms | Média: 13.483 ms | Máx: 14.158 ms
+
+========== RESULTADO 135 ==========
+
+🕒 Timestamp: 2025-09-03 16:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 38.71 Mbps
+Bytes transferidos: 48.60 MB
+Retransmissões: 0
+
+
+========== RESULTADO 136 ==========
+
+🕒 Timestamp: 2025-09-03 17:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 43.45 Mbps
+Bytes transferidos: 326.14 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.179 ms | Média: 13.478 ms | Máx: 14.336 ms
+
+========== RESULTADO 137 ==========
+
+🕒 Timestamp: 2025-09-03 17:46:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 32.33 Mbps
+Bytes transferidos: 242.65 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.174 ms | Média: 13.372 ms | Máx: 14.098 ms
+
+========== RESULTADO 138 ==========
+
+🕒 Timestamp: 2025-09-03 17:47:21
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 29.30 Mbps
+Bytes transferidos: 219.95 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.209 ms | Média: 13.395 ms | Máx: 13.718 ms
+
+========== RESULTADO 139 ==========
+
+🕒 Timestamp: 2025-09-03 17:48:30
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 40.39 Mbps
+Bytes transferidos: 303.11 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.221 ms | Média: 13.365 ms | Máx: 13.609 ms
+
+========== RESULTADO 140 ==========
+
+🕒 Timestamp: 2025-09-03 17:49:39
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 30.44 Mbps
+Bytes transferidos: 228.48 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.165 ms | Média: 13.44 ms | Máx: 14.063 ms
+
+========== RESULTADO 141 ==========
+
+🕒 Timestamp: 2025-09-03 17:50:49
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 200.0 (0.2%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.175 ms | Média: 13.497 ms | Máx: 14.143 ms
+
+========== RESULTADO 142 ==========
+
+🕒 Timestamp: 2025-09-03 17:51:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 113.0 (0.2%)
+Jitter: 0.33 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.222 ms | Média: 13.998 ms | Máx: 18.077 ms
+
+========== RESULTADO 143 ==========
+
+🕒 Timestamp: 2025-09-03 17:53:07
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 64.0 (0.2%)
+Jitter: 0.12 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.189 ms | Média: 13.317 ms | Máx: 13.448 ms
+
+========== RESULTADO 144 ==========
+
+🕒 Timestamp: 2025-09-03 17:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 5.0 (0.1%)
+Jitter: 0.35 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.282 ms | Média: 13.976 ms | Máx: 19.475 ms
+
+========== RESULTADO 145 ==========
+
+🕒 Timestamp: 2025-09-03 17:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 50.36 Mbps
+Bytes transferidos: 63.22 MB
+Retransmissões: 0
+
+
+========== RESULTADO 146 ==========
+
+🕒 Timestamp: 2025-09-03 18:15:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 39.99 Mbps
+Bytes transferidos: 300.13 MB
+Retransmissões: 0
+
+
+========== RESULTADO 147 ==========
+
+🕒 Timestamp: 2025-09-03 18:16:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 34.55 Mbps
+Bytes transferidos: 259.33 MB
+Retransmissões: 0
+
+
+========== RESULTADO 148 ==========
+
+🕒 Timestamp: 2025-09-03 18:17:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.98 Mbps
+Bytes transferidos: 262.50 MB
+Retransmissões: 0
+
+
+========== RESULTADO 149 ==========
+
+🕒 Timestamp: 2025-09-03 18:18:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 36.52 Mbps
+Bytes transferidos: 274.05 MB
+Retransmissões: 0
+
+
+========== RESULTADO 150 ==========
+
+🕒 Timestamp: 2025-09-03 18:19:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 34.07 Mbps
+Bytes transferidos: 255.73 MB
+Retransmissões: 0
+
+
+========== RESULTADO 151 ==========
+
+🕒 Timestamp: 2025-09-03 18:20:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 158.0 (0.1%)
+Jitter: 0.05 ms
+
+
+========== RESULTADO 152 ==========
+
+🕒 Timestamp: 2025-09-03 18:21:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 123.0 (0.2%)
+Jitter: 0.06 ms
+
+
+========== RESULTADO 153 ==========
+
+🕒 Timestamp: 2025-09-03 18:31:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 558.0 (0.2%)
+Jitter: 0.31 ms
+
+
+========== RESULTADO 154 ==========
+
+🕒 Timestamp: 2025-09-03 18:32:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 25.0 (0.2%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 155 ==========
+
+🕒 Timestamp: 2025-09-03 18:33:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 18.0 (0.2%)
+Jitter: 0.07 ms
+
+
+========== RESULTADO 156 ==========
+
+🕒 Timestamp: 2025-09-03 18:34:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 14.0 (0.4%)
+Jitter: 0.46 ms
+
+
+========== RESULTADO 157 ==========
+
+🕒 Timestamp: 2025-09-03 18:47:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 45.37 Mbps
+Bytes transferidos: 1021.08 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.131 ms | Média: 13.29 ms | Máx: 13.474 ms
+
+========== RESULTADO 158 ==========
+
+🕒 Timestamp: 2025-09-03 18:50:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 29.59 Mbps
+Bytes transferidos: 666.02 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.287 ms | Média: 13.438 ms | Máx: 13.622 ms
+
+========== RESULTADO 159 ==========
+
+🕒 Timestamp: 2025-09-03 18:53:20
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 57.0 (0.1%)
+Jitter: 0.03 ms
+
+
+========== RESULTADO 160 ==========
+
+🕒 Timestamp: 2025-09-03 18:56:21
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 536.0 (2.3%)
+Jitter: 0.11 ms
+
+
+========== RESULTADO 161 ==========
+
+🕒 Timestamp: 2025-09-03 18:58:01
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 13.11 MB
+Pacotes enviados: 0
+Perda de pacotes: 35.0 (0.4%)
+Jitter: 0.06 ms
+
+
+========== RESULTADO 162 ==========
+
+🕒 Timestamp: 2025-09-03 19:04:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 39.63 Mbps
+Bytes transferidos: 1486.16 MB
+Retransmissões: 0
+
+
+========== RESULTADO 163 ==========
+
+🕒 Timestamp: 2025-09-03 19:19:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 34.39 Mbps
+Bytes transferidos: 1289.71 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.266 ms | Média: 13.488 ms | Máx: 13.988 ms
+
+========== RESULTADO 164 ==========
+
+🕒 Timestamp: 2025-09-03 19:24:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 39.32 MB
+Pacotes enviados: 0
+Perda de pacotes: 80.0 (0.3%)
+Jitter: 0.13 ms
+
+
+========== RESULTADO 165 ==========
+
+🕒 Timestamp: 2025-09-03 19:25:52
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 43.37 Mbps
+Bytes transferidos: 542.33 MB
+Retransmissões: 0
+
+
+========== RESULTADO 166 ==========
+
+🕒 Timestamp: 2025-09-03 19:35:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 47.19 MB
+Pacotes enviados: 0
+Perda de pacotes: 27.0 (0.1%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 167 ==========
+
+🕒 Timestamp: 2025-09-03 19:41:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 45.66 Mbps
+Bytes transferidos: 2055.01 MB
+Retransmissões: 0
+
+
+========== RESULTADO 168 ==========
+
+🕒 Timestamp: 2025-09-03 19:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 38.57 Mbps
+Bytes transferidos: 289.51 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.038 ms | Média: 13.419 ms | Máx: 17.506 ms
+
+========== RESULTADO 169 ==========
+
+🕒 Timestamp: 2025-09-03 19:50:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 256.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 33.55 MB
+Pacotes enviados: 100
+Perda de pacotes: 526.0 (0.4%)
+Jitter: 0.11 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.094 ms | Média: 13.41 ms | Máx: 16.067 ms
+
+========== RESULTADO 170 ==========
+
+🕒 Timestamp: 2025-09-03 20:17:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 44.09 Mbps
+Bytes transferidos: 992.24 MB
+Retransmissões: 0
+
+
+========== RESULTADO 171 ==========
+
+🕒 Timestamp: 2025-09-03 20:20:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 40.75 Mbps
+Bytes transferidos: 917.00 MB
+Retransmissões: 0
+
+
+========== RESULTADO 172 ==========
+
+🕒 Timestamp: 2025-09-03 20:23:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 44.35 Mbps
+Bytes transferidos: 998.04 MB
+Retransmissões: 0
+
+
+========== RESULTADO 173 ==========
+
+🕒 Timestamp: 2025-09-03 20:26:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 31.0 (0.1%)
+Jitter: 0.11 ms
+
+
+========== RESULTADO 174 ==========
+
+🕒 Timestamp: 2025-09-03 20:39:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 116.0 (0.2%)
+Jitter: 0.05 ms
+
+
+========== RESULTADO 175 ==========
+
+🕒 Timestamp: 2025-09-03 20:54:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 100
+Perda de pacotes: 58.0 (0.1%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 12.945 ms | Média: 13.27 ms | Máx: 14.428 ms
+
+========== RESULTADO 176 ==========
+
+🕒 Timestamp: 2025-09-03 21:00:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 30.46 Mbps
+Bytes transferidos: 228.58 MB
+Retransmissões: 0
+
+
+========== RESULTADO 177 ==========
+
+🕒 Timestamp: 2025-09-03 21:01:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 125 bytes
+Bits por segundo: 33.25 Mbps
+Bytes transferidos: 249.52 MB
+Retransmissões: 0
+
+
+========== RESULTADO 178 ==========
+
+🕒 Timestamp: 2025-09-03 21:02:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 24.47 Mbps
+Bytes transferidos: 183.66 MB
+Retransmissões: 0
+
+
+========== RESULTADO 179 ==========
+
+🕒 Timestamp: 2025-09-03 21:03:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 45.25 Mbps
+Bytes transferidos: 339.63 MB
+Retransmissões: 0
+
+
+========== RESULTADO 180 ==========
+
+🕒 Timestamp: 2025-09-03 21:04:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 51.23 Mbps
+Bytes transferidos: 384.44 MB
+Retransmissões: 0
+
+
+========== RESULTADO 181 ==========
+
+🕒 Timestamp: 2025-09-03 21:05:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 38.21 Mbps
+Bytes transferidos: 286.76 MB
+Retransmissões: 0
+
+
+========== RESULTADO 182 ==========
+
+🕒 Timestamp: 2025-09-03 21:06:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2500 bytes
+Bits por segundo: 57.74 Mbps
+Bytes transferidos: 433.38 MB
+Retransmissões: 0
+
+
+========== RESULTADO 183 ==========
+
+🕒 Timestamp: 2025-09-03 21:07:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 3072 bytes
+Bits por segundo: 48.44 Mbps
+Bytes transferidos: 363.51 MB
+Retransmissões: 0
+
+
+========== RESULTADO 184 ==========
+
+🕒 Timestamp: 2025-09-03 21:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 25.85 Mbps
+Bytes transferidos: 97.09 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 30
+Min: 24.054 ms | Média: 24.321 ms | Máx: 25.121 ms
+
+========== RESULTADO 185 ==========
+
+🕒 Timestamp: 2025-09-03 21:15:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 5125 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 3.94 MB
+Pacotes enviados: 0
+Perda de pacotes: 13.0 (1.7%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 186 ==========
+
+🕒 Timestamp: 2025-09-03 21:16:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 18.01 Mbps
+Bytes transferidos: 135.17 MB
+Retransmissões: 0
+
+
+========== RESULTADO 187 ==========
+
+🕒 Timestamp: 2025-09-04 12:29:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 9.0 (0.2%)
+Jitter: 0.03 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.26 ms | Média: 13.654 ms | Máx: 15.716 ms
+
+========== RESULTADO 188 ==========
+
+🕒 Timestamp: 2025-09-04 12:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 42.47 Mbps
+Bytes transferidos: 53.30 MB
+Retransmissões: 0
+
+
+========== RESULTADO 189 ==========
+
+🕒 Timestamp: 2025-09-04 12:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 4.0 (0.1%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.183 ms | Média: 13.277 ms | Máx: 13.373 ms
+
+========== RESULTADO 190 ==========
+
+🕒 Timestamp: 2025-09-04 12:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 54.37 Mbps
+Bytes transferidos: 68.25 MB
+Retransmissões: 0
+
+
+========== RESULTADO 191 ==========
+
+🕒 Timestamp: 2025-09-04 12:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.12 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.25 ms | Média: 13.471 ms | Máx: 14.631 ms
+
+========== RESULTADO 192 ==========
+
+🕒 Timestamp: 2025-09-04 12:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 47.59 Mbps
+Bytes transferidos: 59.74 MB
+Retransmissões: 0
+
+
+========== RESULTADO 193 ==========
+
+🕒 Timestamp: 2025-09-04 13:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 27.0 (0.5%)
+Jitter: 0.13 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.212 ms | Média: 13.367 ms | Máx: 13.62 ms
+
+========== RESULTADO 194 ==========
+
+🕒 Timestamp: 2025-09-04 13:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.03 Mbps
+Bytes transferidos: 42.70 MB
+Retransmissões: 0
+
+
+========== RESULTADO 195 ==========
+
+🕒 Timestamp: 2025-09-04 13:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.41 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.106 ms | Média: 13.384 ms | Máx: 13.665 ms
+
+========== RESULTADO 196 ==========
+
+🕒 Timestamp: 2025-09-04 13:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 46.57 Mbps
+Bytes transferidos: 58.46 MB
+Retransmissões: 0
+
+
+========== RESULTADO 197 ==========
+
+🕒 Timestamp: 2025-09-04 13:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 40.0 (0.8%)
+Jitter: 0.21 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.207 ms | Média: 13.379 ms | Máx: 13.713 ms
+
+========== RESULTADO 198 ==========
+
+🕒 Timestamp: 2025-09-04 13:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 71.29 Mbps
+Bytes transferidos: 89.41 MB
+Retransmissões: 0
+
+
+========== RESULTADO 199 ==========
+
+🕒 Timestamp: 2025-09-04 13:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 9.0 (0.2%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.198 ms | Média: 13.366 ms | Máx: 13.635 ms
+
+========== RESULTADO 200 ==========
+
+🕒 Timestamp: 2025-09-04 13:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 60.53 Mbps
+Bytes transferidos: 75.99 MB
+Retransmissões: 0
+
+
+========== RESULTADO 201 ==========
+
+🕒 Timestamp: 2025-09-04 14:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.145 ms | Média: 13.379 ms | Máx: 13.627 ms
+
+========== RESULTADO 202 ==========
+
+🕒 Timestamp: 2025-09-04 14:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 27.48 Mbps
+Bytes transferidos: 34.48 MB
+Retransmissões: 0
+
+
+========== RESULTADO 203 ==========
+
+🕒 Timestamp: 2025-09-04 14:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 15.0 (0.3%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.284 ms | Média: 13.574 ms | Máx: 15.012 ms
+
+========== RESULTADO 204 ==========
+
+🕒 Timestamp: 2025-09-04 14:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 36.74 Mbps
+Bytes transferidos: 46.11 MB
+Retransmissões: 0
+
+
+========== RESULTADO 205 ==========
+
+🕒 Timestamp: 2025-09-04 14:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 15.2 ms | Média: 15.55 ms | Máx: 17.409 ms
+
+========== RESULTADO 206 ==========
+
+🕒 Timestamp: 2025-09-04 14:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 87.20 Mbps
+Bytes transferidos: 109.46 MB
+Retransmissões: 0
+
+
+========== RESULTADO 207 ==========
+
+🕒 Timestamp: 2025-09-04 14:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 8.0 (0.2%)
+Jitter: 0.18 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.228 ms | Média: 13.514 ms | Máx: 15.198 ms
+
+========== RESULTADO 208 ==========
+
+🕒 Timestamp: 2025-09-04 14:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 58.55 Mbps
+Bytes transferidos: 73.50 MB
+Retransmissões: 0
+
+
+========== RESULTADO 209 ==========
+
+🕒 Timestamp: 2025-09-04 15:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.03 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.099 ms | Média: 13.181 ms | Máx: 13.347 ms
+
+========== RESULTADO 210 ==========
+
+🕒 Timestamp: 2025-09-04 15:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 48.16 Mbps
+Bytes transferidos: 60.45 MB
+Retransmissões: 0
+
+
+========== RESULTADO 211 ==========
+
+🕒 Timestamp: 2025-09-04 15:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.339 ms | Média: 13.455 ms | Máx: 13.664 ms
+
+========== RESULTADO 212 ==========
+
+🕒 Timestamp: 2025-09-04 15:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 83.63 Mbps
+Bytes transferidos: 104.97 MB
+Retransmissões: 0
+
+
+========== RESULTADO 213 ==========
+
+🕒 Timestamp: 2025-09-04 15:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.11 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.32 ms | Média: 13.564 ms | Máx: 13.986 ms
+
+========== RESULTADO 214 ==========
+
+🕒 Timestamp: 2025-09-04 15:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 46.33 Mbps
+Bytes transferidos: 58.15 MB
+Retransmissões: 0
+
+
+========== RESULTADO 215 ==========
+
+🕒 Timestamp: 2025-09-04 15:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 18.0 (0.4%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.125 ms | Média: 13.728 ms | Máx: 17.065 ms
+
+========== RESULTADO 216 ==========
+
+🕒 Timestamp: 2025-09-04 15:59:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 0
+Perda de pacotes: 18.0 (0.4%)
+Jitter: 0.16 ms
+
+
+========== RESULTADO 217 ==========
+
+🕒 Timestamp: 2025-09-04 16:14:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 44.88 Mbps
+Bytes transferidos: 56.34 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.178 ms | Média: 13.349 ms | Máx: 13.676 ms
+
+========== RESULTADO 218 ==========
+
+🕒 Timestamp: 2025-09-04 16:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 38.08 Mbps
+Bytes transferidos: 47.80 MB
+Retransmissões: 0
+
+
+========== RESULTADO 219 ==========
+
+🕒 Timestamp: 2025-09-04 16:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 15.0 (0.3%)
+Jitter: 0.20 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.152 ms | Média: 13.275 ms | Máx: 13.407 ms
+
+========== RESULTADO 220 ==========
+
+🕒 Timestamp: 2025-09-04 16:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 63.84 Mbps
+Bytes transferidos: 80.12 MB
+Retransmissões: 0
+
+
+========== RESULTADO 221 ==========
+
+🕒 Timestamp: 2025-09-04 16:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 71.0 (1.4%)
+Jitter: 0.22 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.17 ms | Média: 13.425 ms | Máx: 14.132 ms
+
+========== RESULTADO 222 ==========
+
+🕒 Timestamp: 2025-09-04 16:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 42.67 Mbps
+Bytes transferidos: 53.56 MB
+Retransmissões: 0
+
+
+========== RESULTADO 223 ==========
+
+🕒 Timestamp: 2025-09-04 16:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.231 ms | Média: 13.405 ms | Máx: 13.724 ms
+
+========== RESULTADO 224 ==========
+
+🕒 Timestamp: 2025-09-04 16:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 23.75 Mbps
+Bytes transferidos: 29.81 MB
+Retransmissões: 0
+
+
+========== RESULTADO 225 ==========
+
+🕒 Timestamp: 2025-09-04 17:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 41.44 Mbps
+Bytes transferidos: 310.98 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.11 ms | Média: 13.208 ms | Máx: 13.333 ms
+
+========== RESULTADO 226 ==========
+
+🕒 Timestamp: 2025-09-04 17:46:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 33.67 Mbps
+Bytes transferidos: 252.74 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.177 ms | Média: 13.389 ms | Máx: 13.846 ms
+
+========== RESULTADO 227 ==========
+
+🕒 Timestamp: 2025-09-04 17:47:21
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 38.73 Mbps
+Bytes transferidos: 290.68 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.207 ms | Média: 13.35 ms | Máx: 13.625 ms
+
+========== RESULTADO 228 ==========
+
+🕒 Timestamp: 2025-09-04 17:48:30
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 33.37 Mbps
+Bytes transferidos: 250.49 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.095 ms | Média: 13.253 ms | Máx: 13.525 ms
+
+========== RESULTADO 229 ==========
+
+🕒 Timestamp: 2025-09-04 17:49:40
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 36.82 Mbps
+Bytes transferidos: 276.35 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.192 ms | Média: 13.436 ms | Máx: 14.014 ms
+
+========== RESULTADO 230 ==========
+
+🕒 Timestamp: 2025-09-04 17:50:49
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 460.0 (0.4%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.133 ms | Média: 13.346 ms | Máx: 13.686 ms
+
+========== RESULTADO 231 ==========
+
+🕒 Timestamp: 2025-09-04 17:51:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 101.0 (0.2%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.177 ms | Média: 13.284 ms | Máx: 13.387 ms
+
+========== RESULTADO 232 ==========
+
+🕒 Timestamp: 2025-09-04 17:53:08
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 41.0 (0.1%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.308 ms | Média: 13.883 ms | Máx: 15.597 ms
+
+========== RESULTADO 233 ==========
+
+🕒 Timestamp: 2025-09-04 17:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 5.0 (0.1%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.113 ms | Média: 13.33 ms | Máx: 13.715 ms
+
+========== RESULTADO 234 ==========
+
+🕒 Timestamp: 2025-09-04 17:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 18.47 Mbps
+Bytes transferidos: 23.19 MB
+Retransmissões: 0
+
+
+========== RESULTADO 235 ==========
+
+🕒 Timestamp: 2025-09-04 18:15:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 39.17 Mbps
+Bytes transferidos: 294.00 MB
+Retransmissões: 0
+
+
+========== RESULTADO 236 ==========
+
+🕒 Timestamp: 2025-09-04 18:16:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 38.78 Mbps
+Bytes transferidos: 291.05 MB
+Retransmissões: 0
+
+
+========== RESULTADO 237 ==========
+
+🕒 Timestamp: 2025-09-04 18:17:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 41.76 Mbps
+Bytes transferidos: 313.44 MB
+Retransmissões: 0
+
+
+========== RESULTADO 238 ==========
+
+🕒 Timestamp: 2025-09-04 18:18:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 38.81 Mbps
+Bytes transferidos: 291.27 MB
+Retransmissões: 0
+
+
+========== RESULTADO 239 ==========
+
+🕒 Timestamp: 2025-09-04 18:19:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 38.27 Mbps
+Bytes transferidos: 287.19 MB
+Retransmissões: 0
+
+
+========== RESULTADO 240 ==========
+
+🕒 Timestamp: 2025-09-04 18:20:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 167.0 (0.1%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 241 ==========
+
+🕒 Timestamp: 2025-09-04 18:21:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 38.0 (0.1%)
+Jitter: 0.08 ms
+
+
+========== RESULTADO 242 ==========
+
+🕒 Timestamp: 2025-09-04 18:31:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 417.0 (0.1%)
+Jitter: 0.08 ms
+
+
+========== RESULTADO 243 ==========
+
+🕒 Timestamp: 2025-09-04 18:32:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 25.0 (0.2%)
+Jitter: 0.11 ms
+
+
+========== RESULTADO 244 ==========
+
+🕒 Timestamp: 2025-09-04 18:33:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 11.0 (0.1%)
+Jitter: 0.24 ms
+
+
+========== RESULTADO 245 ==========
+
+🕒 Timestamp: 2025-09-04 18:34:06
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 13.0 (0.3%)
+Jitter: 0.12 ms
+
+
+========== RESULTADO 246 ==========
+
+🕒 Timestamp: 2025-09-04 18:47:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 39.19 Mbps
+Bytes transferidos: 881.88 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.258 ms | Média: 13.673 ms | Máx: 15.192 ms
+
+========== RESULTADO 247 ==========
+
+🕒 Timestamp: 2025-09-04 18:50:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 20.71 Mbps
+Bytes transferidos: 466.11 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.175 ms | Média: 13.507 ms | Máx: 15.341 ms
+
+========== RESULTADO 248 ==========
+
+🕒 Timestamp: 2025-09-04 18:53:20
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 160.0 (0.3%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 249 ==========
+
+🕒 Timestamp: 2025-09-04 18:56:21
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 134.0 (0.6%)
+Jitter: 0.11 ms
+
+
+========== RESULTADO 250 ==========
+
+🕒 Timestamp: 2025-09-04 18:58:01
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 13.11 MB
+Pacotes enviados: 0
+Perda de pacotes: 65.0 (0.7%)
+Jitter: 1.17 ms
+
+
+========== RESULTADO 251 ==========
+
+🕒 Timestamp: 2025-09-04 19:04:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 24.44 Mbps
+Bytes transferidos: 916.74 MB
+Retransmissões: 0
+
+
+========== RESULTADO 252 ==========
+
+🕒 Timestamp: 2025-09-04 19:19:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 20.97 Mbps
+Bytes transferidos: 786.42 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.27 ms | Média: 14.116 ms | Máx: 20.346 ms
+
+========== RESULTADO 253 ==========
+
+🕒 Timestamp: 2025-09-04 19:24:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 39.32 MB
+Pacotes enviados: 0
+Perda de pacotes: 180.0 (0.7%)
+Jitter: 0.12 ms
+
+
+========== RESULTADO 254 ==========
+
+🕒 Timestamp: 2025-09-04 19:25:51
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 29.55 Mbps
+Bytes transferidos: 369.58 MB
+Retransmissões: 0
+
+
+========== RESULTADO 255 ==========
+
+🕒 Timestamp: 2025-09-04 19:35:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 47.19 MB
+Pacotes enviados: 0
+Perda de pacotes: 82.0 (0.4%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 256 ==========
+
+🕒 Timestamp: 2025-09-04 19:41:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 31.04 Mbps
+Bytes transferidos: 1396.93 MB
+Retransmissões: 0
+
+
+========== RESULTADO 257 ==========
+
+🕒 Timestamp: 2025-09-04 19:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.11 Mbps
+Bytes transferidos: 255.98 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.022 ms | Média: 13.507 ms | Máx: 18.73 ms
+
+========== RESULTADO 258 ==========
+
+🕒 Timestamp: 2025-09-04 19:50:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 256.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 33.55 MB
+Pacotes enviados: 100
+Perda de pacotes: 370.0 (0.3%)
+Jitter: 0.12 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.044 ms | Média: 13.571 ms | Máx: 21.097 ms
+
+========== RESULTADO 259 ==========
+
+🕒 Timestamp: 2025-09-04 20:17:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 39.80 Mbps
+Bytes transferidos: 895.63 MB
+Retransmissões: 0
+
+
+========== RESULTADO 260 ==========
+
+🕒 Timestamp: 2025-09-04 20:20:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 33.89 Mbps
+Bytes transferidos: 762.62 MB
+Retransmissões: 0
+
+
+========== RESULTADO 261 ==========
+
+🕒 Timestamp: 2025-09-04 20:23:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 40.81 Mbps
+Bytes transferidos: 918.40 MB
+Retransmissões: 0
+
+
+========== RESULTADO 262 ==========
+
+🕒 Timestamp: 2025-09-04 20:26:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 104.0 (0.2%)
+Jitter: 0.26 ms
+
+
+========== RESULTADO 263 ==========
+
+🕒 Timestamp: 2025-09-04 20:39:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 177.0 (0.2%)
+Jitter: 0.31 ms
+
+
+========== RESULTADO 264 ==========
+
+🕒 Timestamp: 2025-09-04 20:54:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 100
+Perda de pacotes: 51.0 (0.1%)
+Jitter: 0.20 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.09 ms | Média: 13.566 ms | Máx: 26.489 ms
+
+========== RESULTADO 265 ==========
+
+🕒 Timestamp: 2025-09-04 21:00:01
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 36.91 Mbps
+Bytes transferidos: 276.98 MB
+Retransmissões: 0
+
+
+========== RESULTADO 266 ==========
+
+🕒 Timestamp: 2025-09-04 21:01:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 125 bytes
+Bits por segundo: 37.14 Mbps
+Bytes transferidos: 278.78 MB
+Retransmissões: 0
+
+
+========== RESULTADO 267 ==========
+
+🕒 Timestamp: 2025-09-04 21:02:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 42.99 Mbps
+Bytes transferidos: 322.68 MB
+Retransmissões: 0
+
+
+========== RESULTADO 268 ==========
+
+🕒 Timestamp: 2025-09-04 21:03:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 37.58 Mbps
+Bytes transferidos: 282.06 MB
+Retransmissões: 0
+
+
+========== RESULTADO 269 ==========
+
+🕒 Timestamp: 2025-09-04 21:04:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 45.13 Mbps
+Bytes transferidos: 338.70 MB
+Retransmissões: 0
+
+
+========== RESULTADO 270 ==========
+
+🕒 Timestamp: 2025-09-04 21:05:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 43.68 Mbps
+Bytes transferidos: 329.02 MB
+Retransmissões: 0
+
+
+========== RESULTADO 271 ==========
+
+🕒 Timestamp: 2025-09-04 21:06:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2500 bytes
+Bits por segundo: 38.11 Mbps
+Bytes transferidos: 286.04 MB
+Retransmissões: 0
+
+
+========== RESULTADO 272 ==========
+
+🕒 Timestamp: 2025-09-04 21:07:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 3072 bytes
+Bits por segundo: 38.92 Mbps
+Bytes transferidos: 292.08 MB
+Retransmissões: 0
+
+
+========== RESULTADO 273 ==========
+
+🕒 Timestamp: 2025-09-04 21:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 32.84 Mbps
+Bytes transferidos: 123.33 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 30
+Min: 13.141 ms | Média: 13.328 ms | Máx: 13.629 ms
+
+========== RESULTADO 274 ==========
+
+🕒 Timestamp: 2025-09-04 21:15:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 5125 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 3.94 MB
+Pacotes enviados: 0
+Perda de pacotes: 1.0 (0.1%)
+Jitter: 0.14 ms
+
+
+========== RESULTADO 275 ==========
+
+🕒 Timestamp: 2025-09-04 21:16:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 40.91 Mbps
+Bytes transferidos: 307.07 MB
+Retransmissões: 0
+
+
+========== RESULTADO 276 ==========
+
+🕒 Timestamp: 2025-09-05 12:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 8.0 (0.2%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.295 ms | Média: 13.527 ms | Máx: 14.184 ms
+
+========== RESULTADO 277 ==========
+
+🕒 Timestamp: 2025-09-05 12:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 27.09 Mbps
+Bytes transferidos: 34.00 MB
+Retransmissões: 0
+
+
+========== RESULTADO 278 ==========
+
+🕒 Timestamp: 2025-09-05 12:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 133.0 (2.6%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.112 ms | Média: 13.627 ms | Máx: 15.247 ms
+
+========== RESULTADO 279 ==========
+
+🕒 Timestamp: 2025-09-05 12:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 55.92 Mbps
+Bytes transferidos: 70.19 MB
+Retransmissões: 0
+
+
+========== RESULTADO 280 ==========
+
+🕒 Timestamp: 2025-09-05 12:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 6.0 (0.1%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.171 ms | Média: 13.288 ms | Máx: 13.414 ms
+
+========== RESULTADO 281 ==========
+
+🕒 Timestamp: 2025-09-05 12:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 39.01 Mbps
+Bytes transferidos: 48.97 MB
+Retransmissões: 0
+
+
+========== RESULTADO 282 ==========
+
+🕒 Timestamp: 2025-09-05 13:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 11.0 (0.2%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.213 ms | Média: 13.33 ms | Máx: 13.488 ms
+
+========== RESULTADO 283 ==========
+
+🕒 Timestamp: 2025-09-05 13:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 39.61 Mbps
+Bytes transferidos: 49.70 MB
+Retransmissões: 0
+
+
+========== RESULTADO 284 ==========
+
+🕒 Timestamp: 2025-09-05 13:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 9.0 (0.2%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.169 ms | Média: 13.436 ms | Máx: 14.058 ms
+
+========== RESULTADO 285 ==========
+
+🕒 Timestamp: 2025-09-05 13:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 32.77 Mbps
+Bytes transferidos: 41.13 MB
+Retransmissões: 0
+
+
+========== RESULTADO 286 ==========
+
+🕒 Timestamp: 2025-09-05 13:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.304 ms | Média: 13.535 ms | Máx: 14.186 ms
+
+========== RESULTADO 287 ==========
+
+🕒 Timestamp: 2025-09-05 13:44:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 49.29 Mbps
+Bytes transferidos: 61.88 MB
+Retransmissões: 0
+
+
+========== RESULTADO 288 ==========
+
+🕒 Timestamp: 2025-09-05 13:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 3.0 (0.1%)
+Jitter: 0.08 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.227 ms | Média: 13.405 ms | Máx: 13.88 ms
+
+========== RESULTADO 289 ==========
+
+🕒 Timestamp: 2025-09-05 13:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 50.76 Mbps
+Bytes transferidos: 63.69 MB
+Retransmissões: 0
+
+
+========== RESULTADO 290 ==========
+
+🕒 Timestamp: 2025-09-05 14:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.16 ms | Média: 13.287 ms | Máx: 13.545 ms
+
+========== RESULTADO 291 ==========
+
+🕒 Timestamp: 2025-09-05 14:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 43.72 Mbps
+Bytes transferidos: 54.86 MB
+Retransmissões: 0
+
+
+========== RESULTADO 292 ==========
+
+🕒 Timestamp: 2025-09-05 14:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.06 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.256 ms | Média: 13.349 ms | Máx: 13.548 ms
+
+========== RESULTADO 293 ==========
+
+🕒 Timestamp: 2025-09-05 14:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 52.51 Mbps
+Bytes transferidos: 65.89 MB
+Retransmissões: 0
+
+
+========== RESULTADO 294 ==========
+
+🕒 Timestamp: 2025-09-05 14:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.263 ms | Média: 13.379 ms | Máx: 13.601 ms
+
+========== RESULTADO 295 ==========
+
+🕒 Timestamp: 2025-09-05 14:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 63.52 Mbps
+Bytes transferidos: 79.72 MB
+Retransmissões: 0
+
+
+========== RESULTADO 296 ==========
+
+🕒 Timestamp: 2025-09-05 14:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 11.0 (0.2%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.136 ms | Média: 13.376 ms | Máx: 13.797 ms
+
+========== RESULTADO 297 ==========
+
+🕒 Timestamp: 2025-09-05 14:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 32.75 Mbps
+Bytes transferidos: 41.10 MB
+Retransmissões: 0
+
+
+========== RESULTADO 298 ==========
+
+🕒 Timestamp: 2025-09-05 15:14:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 0 (0.0%)
+Jitter: 0.04 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 30.322 ms | Média: 32.268 ms | Máx: 36.127 ms
+
+========== RESULTADO 299 ==========
+
+🕒 Timestamp: 2025-09-05 15:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.00 Mbps
+Bytes transferidos: 42.67 MB
+Retransmissões: 0
+
+
+========== RESULTADO 300 ==========
+
+🕒 Timestamp: 2025-09-05 15:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 14.0 (0.3%)
+Jitter: 0.68 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.304 ms | Média: 13.626 ms | Máx: 14.428 ms
+
+========== RESULTADO 301 ==========
+
+🕒 Timestamp: 2025-09-05 15:29:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 79.54 Mbps
+Bytes transferidos: 99.84 MB
+Retransmissões: 0
+
+
+========== RESULTADO 302 ==========
+
+🕒 Timestamp: 2025-09-05 15:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 7.0 (0.1%)
+Jitter: 0.34 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.27 ms | Média: 13.55 ms | Máx: 14.612 ms
+
+========== RESULTADO 303 ==========
+
+🕒 Timestamp: 2025-09-05 15:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 55.67 Mbps
+Bytes transferidos: 69.88 MB
+Retransmissões: 0
+
+
+========== RESULTADO 304 ==========
+
+🕒 Timestamp: 2025-09-05 15:59:11
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 8.0 (0.2%)
+Jitter: 0.39 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.291 ms | Média: 13.702 ms | Máx: 15.524 ms
+
+========== RESULTADO 305 ==========
+
+🕒 Timestamp: 2025-09-05 15:59:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 0
+Perda de pacotes: 4.0 (0.1%)
+Jitter: 0.20 ms
+
+
+========== RESULTADO 306 ==========
+
+🕒 Timestamp: 2025-09-05 16:14:12
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 51.76 Mbps
+Bytes transferidos: 64.97 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.161 ms | Média: 13.768 ms | Máx: 16.749 ms
+
+========== RESULTADO 307 ==========
+
+🕒 Timestamp: 2025-09-05 16:14:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 44.68 Mbps
+Bytes transferidos: 56.09 MB
+Retransmissões: 0
+
+
+========== RESULTADO 308 ==========
+
+🕒 Timestamp: 2025-09-05 16:29:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 4.0 (0.1%)
+Jitter: 0.16 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.418 ms | Média: 13.6 ms | Máx: 13.895 ms
+
+========== RESULTADO 309 ==========
+
+🕒 Timestamp: 2025-09-05 16:29:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 62.97 Mbps
+Bytes transferidos: 79.01 MB
+Retransmissões: 0
+
+
+========== RESULTADO 310 ==========
+
+🕒 Timestamp: 2025-09-05 16:44:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 2.0 (0.0%)
+Jitter: 0.05 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.142 ms | Média: 13.323 ms | Máx: 13.632 ms
+
+========== RESULTADO 311 ==========
+
+🕒 Timestamp: 2025-09-05 16:44:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 46.50 Mbps
+Bytes transferidos: 58.36 MB
+Retransmissões: 0
+
+
+========== RESULTADO 312 ==========
+
+🕒 Timestamp: 2025-09-05 16:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 13.0 (0.3%)
+Jitter: 0.10 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.486 ms | Média: 13.764 ms | Máx: 14.74 ms
+
+========== RESULTADO 313 ==========
+
+🕒 Timestamp: 2025-09-05 16:59:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 34.79 Mbps
+Bytes transferidos: 43.67 MB
+Retransmissões: 0
+
+
+========== RESULTADO 314 ==========
+
+🕒 Timestamp: 2025-09-05 17:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 44.83 Mbps
+Bytes transferidos: 336.45 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.241 ms | Média: 13.395 ms | Máx: 13.764 ms
+
+========== RESULTADO 315 ==========
+
+🕒 Timestamp: 2025-09-05 17:46:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 56.04 Mbps
+Bytes transferidos: 420.62 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.173 ms | Média: 13.47 ms | Máx: 14.323 ms
+
+========== RESULTADO 316 ==========
+
+🕒 Timestamp: 2025-09-05 17:47:21
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 43.96 Mbps
+Bytes transferidos: 329.95 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.118 ms | Média: 13.261 ms | Máx: 13.517 ms
+
+========== RESULTADO 317 ==========
+
+🕒 Timestamp: 2025-09-05 17:48:30
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 35.64 Mbps
+Bytes transferidos: 267.51 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.155 ms | Média: 13.279 ms | Máx: 13.499 ms
+
+========== RESULTADO 318 ==========
+
+🕒 Timestamp: 2025-09-05 17:49:39
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 47.09 Mbps
+Bytes transferidos: 353.41 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.219 ms | Média: 13.674 ms | Máx: 15.349 ms
+
+========== RESULTADO 319 ==========
+
+🕒 Timestamp: 2025-09-05 17:50:49
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 217.0 (0.2%)
+Jitter: 0.14 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.189 ms | Média: 13.304 ms | Máx: 13.973 ms
+
+========== RESULTADO 320 ==========
+
+🕒 Timestamp: 2025-09-05 17:51:58
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 131.0 (0.2%)
+Jitter: 0.07 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.227 ms | Média: 13.529 ms | Máx: 15.601 ms
+
+========== RESULTADO 321 ==========
+
+🕒 Timestamp: 2025-09-05 17:53:07
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 10
+Perda de pacotes: 54.0 (0.2%)
+Jitter: 0.27 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.172 ms | Média: 13.451 ms | Máx: 14.153 ms
+
+========== RESULTADO 322 ==========
+
+🕒 Timestamp: 2025-09-05 17:59:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 1.31 MB
+Pacotes enviados: 10
+Perda de pacotes: 6.0 (0.1%)
+Jitter: 0.10 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.183 ms | Média: 13.274 ms | Máx: 13.488 ms
+
+========== RESULTADO 323 ==========
+
+🕒 Timestamp: 2025-09-05 17:59:31
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 10.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 40.55 Mbps
+Bytes transferidos: 50.90 MB
+Retransmissões: 0
+
+
+========== RESULTADO 324 ==========
+
+🕒 Timestamp: 2025-09-05 18:15:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 54.52 Mbps
+Bytes transferidos: 409.19 MB
+Retransmissões: 0
+
+
+========== RESULTADO 325 ==========
+
+🕒 Timestamp: 2025-09-05 18:16:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 38.64 Mbps
+Bytes transferidos: 290.04 MB
+Retransmissões: 0
+
+
+========== RESULTADO 326 ==========
+
+🕒 Timestamp: 2025-09-05 18:17:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 48.15 Mbps
+Bytes transferidos: 361.37 MB
+Retransmissões: 0
+
+
+========== RESULTADO 327 ==========
+
+🕒 Timestamp: 2025-09-05 18:18:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 39.06 Mbps
+Bytes transferidos: 293.16 MB
+Retransmissões: 0
+
+
+========== RESULTADO 328 ==========
+
+🕒 Timestamp: 2025-09-05 18:19:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 29.57 Mbps
+Bytes transferidos: 221.93 MB
+Retransmissões: 0
+
+
+========== RESULTADO 329 ==========
+
+🕒 Timestamp: 2025-09-05 18:20:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 317.0 (0.3%)
+Jitter: 0.07 ms
+
+
+========== RESULTADO 330 ==========
+
+🕒 Timestamp: 2025-09-05 18:21:04
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 128 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 149.0 (0.2%)
+Jitter: 0.08 ms
+
+
+========== RESULTADO 331 ==========
+
+🕒 Timestamp: 2025-09-05 18:31:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 418.0 (0.1%)
+Jitter: 0.19 ms
+
+
+========== RESULTADO 332 ==========
+
+🕒 Timestamp: 2025-09-05 18:32:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 21.0 (0.1%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 333 ==========
+
+🕒 Timestamp: 2025-09-05 18:33:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 4.0 (0.1%)
+Jitter: 0.09 ms
+
+
+========== RESULTADO 334 ==========
+
+🕒 Timestamp: 2025-09-05 18:34:05
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 7.86 MB
+Pacotes enviados: 0
+Perda de pacotes: 1.0 (0.0%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 335 ==========
+
+🕒 Timestamp: 2025-09-05 18:47:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 40.63 Mbps
+Bytes transferidos: 914.28 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.104 ms | Média: 13.338 ms | Máx: 13.69 ms
+
+========== RESULTADO 336 ==========
+
+🕒 Timestamp: 2025-09-05 18:50:11
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 47.80 Mbps
+Bytes transferidos: 1075.73 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.166 ms | Média: 13.354 ms | Máx: 13.644 ms
+
+========== RESULTADO 337 ==========
+
+🕒 Timestamp: 2025-09-05 18:53:20
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 52.0 (0.1%)
+Jitter: 0.04 ms
+
+
+========== RESULTADO 338 ==========
+
+🕒 Timestamp: 2025-09-05 18:56:21
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 22.0 (0.1%)
+Jitter: 0.07 ms
+
+
+========== RESULTADO 339 ==========
+
+🕒 Timestamp: 2025-09-05 18:58:01
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 13.11 MB
+Pacotes enviados: 0
+Perda de pacotes: 41.0 (0.5%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 340 ==========
+
+🕒 Timestamp: 2025-09-05 19:04:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 33.18 Mbps
+Bytes transferidos: 1244.41 MB
+Retransmissões: 0
+
+
+========== RESULTADO 341 ==========
+
+🕒 Timestamp: 2025-09-05 19:19:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 44.10 Mbps
+Bytes transferidos: 1654.15 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 10
+Min: 13.178 ms | Média: 13.327 ms | Máx: 13.645 ms
+
+========== RESULTADO 342 ==========
+
+🕒 Timestamp: 2025-09-05 19:24:12
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 300.0s
+Tamanho do Pacote: 1500 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 39.32 MB
+Pacotes enviados: 0
+Perda de pacotes: 89.0 (0.3%)
+Jitter: 0.14 ms
+
+
+========== RESULTADO 343 ==========
+
+🕒 Timestamp: 2025-09-05 19:25:52
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 100.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 36.23 Mbps
+Bytes transferidos: 453.10 MB
+Retransmissões: 0
+
+
+========== RESULTADO 344 ==========
+
+🕒 Timestamp: 2025-09-05 19:35:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 47.19 MB
+Pacotes enviados: 0
+Perda de pacotes: 60.0 (0.3%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 345 ==========
+
+🕒 Timestamp: 2025-09-05 19:41:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 360.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 52.54 Mbps
+Bytes transferidos: 2364.65 MB
+Retransmissões: 0
+
+
+========== RESULTADO 346 ==========
+
+🕒 Timestamp: 2025-09-05 19:45:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 49.79 Mbps
+Bytes transferidos: 373.69 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.002 ms | Média: 13.273 ms | Máx: 15.604 ms
+
+========== RESULTADO 347 ==========
+
+🕒 Timestamp: 2025-09-05 19:50:57
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 256.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 33.55 MB
+Pacotes enviados: 100
+Perda de pacotes: 266.0 (0.2%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 12.933 ms | Média: 13.166 ms | Máx: 14.05 ms
+
+========== RESULTADO 348 ==========
+
+🕒 Timestamp: 2025-09-05 20:17:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 55.68 Mbps
+Bytes transferidos: 1253.08 MB
+Retransmissões: 0
+
+
+========== RESULTADO 349 ==========
+
+🕒 Timestamp: 2025-09-05 20:20:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 70.60 Mbps
+Bytes transferidos: 1588.97 MB
+Retransmissões: 0
+
+
+========== RESULTADO 350 ==========
+
+🕒 Timestamp: 2025-09-05 20:23:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 60.75 Mbps
+Bytes transferidos: 1367.11 MB
+Retransmissões: 0
+
+
+========== RESULTADO 351 ==========
+
+🕒 Timestamp: 2025-09-05 20:26:03
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 180.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 23.59 MB
+Pacotes enviados: 0
+Perda de pacotes: 27.0 (0.1%)
+Jitter: 0.07 ms
+
+
+========== RESULTADO 352 ==========
+
+🕒 Timestamp: 2025-09-05 20:39:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 0
+Perda de pacotes: 71.0 (0.1%)
+Jitter: 0.10 ms
+
+
+========== RESULTADO 353 ==========
+
+🕒 Timestamp: 2025-09-05 20:54:02
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 600.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 78.64 MB
+Pacotes enviados: 100
+Perda de pacotes: 67.0 (0.1%)
+Jitter: 0.09 ms
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 100
+Min: 13.097 ms | Média: 13.499 ms | Máx: 15.654 ms
+
+========== RESULTADO 354 ==========
+
+🕒 Timestamp: 2025-09-05 21:00:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 79.22 Mbps
+Bytes transferidos: 594.56 MB
+Retransmissões: 0
+
+
+========== RESULTADO 355 ==========
+
+🕒 Timestamp: 2025-09-05 21:01:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 125 bytes
+Bits por segundo: 36.43 Mbps
+Bytes transferidos: 273.45 MB
+Retransmissões: 0
+
+
+========== RESULTADO 356 ==========
+
+🕒 Timestamp: 2025-09-05 21:02:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 256 bytes
+Bits por segundo: 55.85 Mbps
+Bytes transferidos: 419.19 MB
+Retransmissões: 0
+
+
+========== RESULTADO 357 ==========
+
+🕒 Timestamp: 2025-09-05 21:03:02
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 67.33 Mbps
+Bytes transferidos: 505.31 MB
+Retransmissões: 0
+
+
+========== RESULTADO 358 ==========
+
+🕒 Timestamp: 2025-09-05 21:04:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 1024 bytes
+Bits por segundo: 55.82 Mbps
+Bytes transferidos: 418.91 MB
+Retransmissões: 0
+
+
+========== RESULTADO 359 ==========
+
+🕒 Timestamp: 2025-09-05 21:05:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2048 bytes
+Bits por segundo: 83.45 Mbps
+Bytes transferidos: 626.33 MB
+Retransmissões: 0
+
+
+========== RESULTADO 360 ==========
+
+🕒 Timestamp: 2025-09-05 21:06:03
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 2500 bytes
+Bits por segundo: 46.15 Mbps
+Bytes transferidos: 346.36 MB
+Retransmissões: 0
+
+
+========== RESULTADO 361 ==========
+
+🕒 Timestamp: 2025-09-05 21:07:04
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 3072 bytes
+Bits por segundo: 60.27 Mbps
+Bytes transferidos: 452.37 MB
+Retransmissões: 0
+
+
+========== RESULTADO 362 ==========
+
+🕒 Timestamp: 2025-09-05 21:14:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 512 bytes
+Bits por segundo: 66.70 Mbps
+Bytes transferidos: 250.45 MB
+Retransmissões: 0
+
+🏓 TESTE DE LATÊNCIA (Ping)
+----------------------------------------
+Alvo: 200.134.25.51
+Pacotes: 30
+Min: 13.218 ms | Média: 13.865 ms | Máx: 17.879 ms
+
+========== RESULTADO 363 ==========
+
+🕒 Timestamp: 2025-09-05 21:15:31
+
+📶 TESTE DE BANDA (UDP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 30.0s
+Tamanho do Pacote: 5125 bytes
+Bits por segundo: 1.05 Mbps
+Bytes transferidos: 3.94 MB
+Pacotes enviados: 0
+Perda de pacotes: 7.0 (0.9%)
+Jitter: 0.12 ms
+
+
+========== RESULTADO 364 ==========
+
+🕒 Timestamp: 2025-09-05 21:16:32
+
+📶 TESTE DE BANDA (TCP)
+----------------------------------------
+Servidor: 200.134.25.51
+Duração: 60.0s
+Tamanho do Pacote: 64 bytes
+Bits por segundo: 60.76 Mbps
+Bytes transferidos: 455.97 MB
+Retransmissões: 0
